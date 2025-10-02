@@ -27,4 +27,3 @@ public class Meeting extends Task {
         return topic.contains(query) || project.contains(query);
     }
 }
-
